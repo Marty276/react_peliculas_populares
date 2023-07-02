@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_peliculas_populares/static/css/main.7da6a4f6.css",
+    "main.js": "/react_peliculas_populares/static/js/main.6fc49522.js",
+    "index.html": "/react_peliculas_populares/index.html",
+    "static/media/arrow_left.svg": "/react_peliculas_populares/static/media/arrow_left.812a75bfa96867dc18dc.svg",
+    "static/media/arrow_right.svg": "/react_peliculas_populares/static/media/arrow_right.aaf04c2f3c9d71243b45.svg",
+    "main.7da6a4f6.css.map": "/react_peliculas_populares/static/css/main.7da6a4f6.css.map",
+    "main.6fc49522.js.map": "/react_peliculas_populares/static/js/main.6fc49522.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7da6a4f6.css",
+    "static/js/main.6fc49522.js"
+  ]
+}
